@@ -1,4 +1,4 @@
-# IceScreamBuy
+# IceCreamBuy
 
 Felipe y Sebastian  tiene m pesos, los cuales quieren gastar en helados. El heladero ofrece N Sabores, y ellos quieren seleccionar dos distintos de manera que hagan uso de todo su dinero.
 
