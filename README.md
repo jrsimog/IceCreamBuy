@@ -14,3 +14,11 @@ Ejemplo de salida
 ```
 Salida [0,3]
 ```
+# Ejecutar
+```
+npm start
+```
+# Ejecutar prueba unitaria
+```
+npm test
+```
