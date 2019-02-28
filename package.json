@@ -2,7 +2,7 @@
   "name": "icescreenbuy",
   "version": "1.0.0",
   "description": "testing",
-  "main": "solution.js",
+  "main": "scr/index.js",
   "directories": {
     "test": "test"
   },
@@ -17,6 +17,8 @@
     "nodemon": "^1.18.10"
   },
   "scripts": {
+    
+    "start": "nodemon src/index.js --exec babel-node",
     "test": "mocha --require babel-register"
   },
   "repository": {
